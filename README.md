@@ -7,4 +7,4 @@ Solutions to [Advent of Code](https://adventofcode.com/2020), 2020 event.
 * [Day 2](day-2-password-philosophy)
 * [Day 3](day-3-toboggan-trajecotry)
 * [Day 4](day-4-passport-processing)
-
+* [Day 5](day-5-binary-boarding)
