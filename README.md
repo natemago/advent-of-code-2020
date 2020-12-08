@@ -10,3 +10,4 @@ Solutions to [Advent of Code](https://adventofcode.com/2020), 2020 event.
 * [Day 5](day-5-binary-boarding)
 * [Day 6](day-6-custom-customs)
 * [Day 7](day-7-handy-haversacks)
+* [Day 8](day-8-handheld-halting)
