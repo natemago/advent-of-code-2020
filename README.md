@@ -13,3 +13,4 @@ Solutions to [Advent of Code](https://adventofcode.com/2020), 2020 event.
 * [Day 8](day-8-handheld-halting)
 * [Day 9](day-9-encoding-error)
 * [Day 10](day-10-adapter-array)
+* [Day 11](day-11-seating-system)
