@@ -15,3 +15,4 @@ Solutions to [Advent of Code](https://adventofcode.com/2020), 2020 event.
 * [Day 10](day-10-adapter-array)
 * [Day 11](day-11-seating-system)
 * [Day 12](day-12-rain-risk)
+* [Day 13](day-13-shuttle-search)
