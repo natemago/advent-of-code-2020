@@ -17,3 +17,4 @@ Solutions to [Advent of Code](https://adventofcode.com/2020), 2020 event.
 * [Day 12](day-12-rain-risk)
 * [Day 13](day-13-shuttle-search)
 * [Day 14](day-14-docking-data)
+* [Day 15](day-15-rambunctious-recitation)
