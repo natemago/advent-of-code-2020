@@ -22,3 +22,5 @@ Solutions to [Advent of Code](https://adventofcode.com/2020), 2020 event.
 * [Day 17](day-17-conway-cubes)
 * [Day 18](day-18-operation-order)
 * [Day 19](day-19-monster-messages)
+* [Day 20](day-20-jurrasic-jigsaw) :construction:
+* [Day 21](day-21-alergen-assessment)
