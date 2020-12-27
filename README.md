@@ -3,6 +3,8 @@ Advent of Code, 2020 event
 
 Solutions to [Advent of Code](https://adventofcode.com/2020), 2020 event.
 
+![Advent Of Code Final](advent-of-code-2020.gif)
+
 * [Day 1](day-1-report-repair)
 * [Day 2](day-2-password-philosophy)
 * [Day 3](day-3-toboggan-trajecotry)
@@ -27,3 +29,4 @@ Solutions to [Advent of Code](https://adventofcode.com/2020), 2020 event.
 * [Day 22](day-22-crab-combat)
 * [Day 23](day-23-crab-cups)
 * [Day 24](day-24-lobby-layout)
+* [Day 25](day-25-combo-breaker)
